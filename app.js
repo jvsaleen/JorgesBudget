@@ -10,13 +10,13 @@ import {
 } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBjmJlr2Y6I_MxJLmOMwJeZEs-R8-dGyBU",
-  authDomain: "kaylies-budget.firebaseapp.com",
-  projectId: "kaylies-budget",
-  storageBucket: "kaylies-budget.firebasestorage.app",
-  messagingSenderId: "551695158826",
-  appId: "1:551695158826:web:ff1a003cfd6eda0b823d53",
-  measurementId: "G-B4KVDF25RY"
+  apiKey: "",
+  authDomain: "jorges-budget.firebaseapp.com",
+  projectId: "jorges-budget",
+  storageBucket: "jorges-budget.firebasestorage.app",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 const app = initializeApp(firebaseConfig);
